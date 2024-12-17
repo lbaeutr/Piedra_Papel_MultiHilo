@@ -1,0 +1,14 @@
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\bin\Debug\net9.0\Piedra_papel_multihilo.exe
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\bin\Debug\net9.0\Piedra_papel_multihilo.deps.json
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\bin\Debug\net9.0\Piedra_papel_multihilo.runtimeconfig.json
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\bin\Debug\net9.0\Piedra_papel_multihilo.dll
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\bin\Debug\net9.0\Piedra_papel_multihilo.pdb
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\obj\Debug\net9.0\Piedra_papel_multihilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\obj\Debug\net9.0\Piedra_papel_multihilo.AssemblyInfoInputs.cache
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\obj\Debug\net9.0\Piedra_papel_multihilo.AssemblyInfo.cs
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\obj\Debug\net9.0\Piedra_papel_multihilo.csproj.CoreCompileInputs.cache
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\obj\Debug\net9.0\Piedra_papel_multihilo.dll
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\obj\Debug\net9.0\refint\Piedra_papel_multihilo.dll
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\obj\Debug\net9.0\Piedra_papel_multihilo.pdb
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\obj\Debug\net9.0\Piedra_papel_multihilo.genruntimeconfig.cache
+C:\Users\lbaen\Desktop\ConcurrenciaPSP\Piedra_papel_multihilo\Piedra_papel_multihilo\obj\Debug\net9.0\ref\Piedra_papel_multihilo.dll
